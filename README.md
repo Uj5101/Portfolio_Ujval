@@ -14,14 +14,14 @@
 - 🔭 MongoDB | SQL 
 - 🐍 Tensorflow | Scikit-learn | Keras | openCV | ROS | Gazebo
 - 🔧 Github | Visual Studio code | Eclipse | Anaconda | Git
+- 🪟 AWS, CI/CD, DevOps, Kubernetes, Docker
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydev07&layout=compact&title_color=ffffff&bg_color=000000&text_color=ffffff)](https://github.com/jayde07/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uj5101&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydev07&&show_icons=true&title_color=FFD700&icon_color=7fff00&text_color=daf7dc&bg_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=Uj5101&show_icons=true&icon_color=2f80ed" />
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydev07&count_private=true&theme=gruvbox_duo" alt="Jas-Script" /> -->
 
 ### Github Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaydev07&theme=juicyfresh&no-bg=true&&row=1&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Uj5101&row=1&column=5" />
