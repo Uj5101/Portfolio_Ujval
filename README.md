@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Ujval Prajapati a <b>Graduate Student</b> at <a href="http://northeastern.edu"> <b>Arizona State University</b>, USA</a>. <br>
+    Hello, I am Ujval Prajapati a <b>Graduate Student</b> at <a href="https://www.asu.edu/"> <b>Arizona State University</b>, USA</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Development</b> and always looking forward for getting new skill
   </em>
@@ -106,7 +106,7 @@ No Activity tracked this Week
 <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Uj5101&theme=juicyfresh&no-bg=true" />
 
-**[Resume](https://github.com/Uj5101/Resume/blob/main/Resume.pdf)**
+**📄[Resume](https://github.com/Uj5101/Resume/blob/main/Resume.pdf)**
 
 
 
